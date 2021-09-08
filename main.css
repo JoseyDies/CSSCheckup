@@ -3,7 +3,35 @@
     text-align: center;
     background-color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: dotted;
+    border-color: whitesmoke;
 }
 p{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.border-style p{
+    border-style: dotted;
+}
+div {
+    border-style: dotted;
+}
+body{
+    background-image:url(https://i.pinimg.com/474x/01/07/c1/0107c1a17a91d6866861d1912ab68a07.jpg)
+}
+.knownfor{
+    background-color: palegoldenrod;
+    border-style: dotted;
+    border-color: black;
+}
+.tortitude{
+    background-color: palegoldenrod
+}
+.image img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 500px;
+    border-style: dotted;
+    border-color: whitesmoke;
 }
